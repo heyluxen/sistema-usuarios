@@ -2,6 +2,9 @@
 
 *Ficha - 3144585*
 
+## Link video de Youtube:
+https://youtu.be/2udxC6w8V-E
+
 # Sistema Modular de Gestión de Usuarios
 
 Proyecto integrador para el curso **Python avanzado**.  
